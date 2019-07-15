@@ -29,7 +29,7 @@ namespace SportsStore.WebUI.Infrastructure
 
         private void AddBindings()
         {
-            throw new NotImplementedException();
+           //put bindings here
         }
     }
 }
