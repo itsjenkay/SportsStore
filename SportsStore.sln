@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsStore.Domain", "Sport
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsStore.WebUI", "SportsStore.WebUI\SportsStore.WebUI.csproj", "{8F3B1828-54F0-4B50-BC0E-6D882D4350EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsStore.UnitTests", "SportsStore.UnitTests\SportsStore.UnitTests.csproj", "{EC2AD263-6983-4CE2-B547-A7ED8481457A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsStore.UnitTests", "SportsStore.UnitTests\SportsStore.UnitTests.csproj", "{E1AFB43B-81B8-40CD-B0B9-088ABF055762}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{8F3B1828-54F0-4B50-BC0E-6D882D4350EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F3B1828-54F0-4B50-BC0E-6D882D4350EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F3B1828-54F0-4B50-BC0E-6D882D4350EC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EC2AD263-6983-4CE2-B547-A7ED8481457A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EC2AD263-6983-4CE2-B547-A7ED8481457A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EC2AD263-6983-4CE2-B547-A7ED8481457A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EC2AD263-6983-4CE2-B547-A7ED8481457A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1AFB43B-81B8-40CD-B0B9-088ABF055762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1AFB43B-81B8-40CD-B0B9-088ABF055762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1AFB43B-81B8-40CD-B0B9-088ABF055762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1AFB43B-81B8-40CD-B0B9-088ABF055762}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
