@@ -9,13 +9,13 @@ using SportsStore.Domain.Entities;
 namespace SportsStore.Domain.Concrete
 {
    
-    class EFDbContext:DbContext
+  public  class EFDbContext:DbContext
     {
         public EFDbContext()
             :base("name=EFDbContext")
         {
 
         }
-        public DbSet<Product> product { get; set; }
+        public DbSet<Product> Products { get; set; }
     }
 }
