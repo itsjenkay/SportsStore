@@ -13,4 +13,4 @@ namespace SportsStore.WebUI.Models
         public PagingInfo PagingInfo { get; set; }
         public string currentCategory { get; set; }
     }
-}
+} 
